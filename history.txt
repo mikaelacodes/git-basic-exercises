@@ -1,0 +1,545 @@
+    1  source venv/bin/activate
+    2  python manage.py runserver
+    3  python3 manage.py runserver
+    4  python3 -m venv venv
+    5  source venv/bin/activate
+    6  python3 manage.py runserver
+    7  pip install -r requirements.txt
+    8  python manage.py makemigrations
+    9  pip install django
+   10  python manage.py makemigrations
+   11  pip install -r requirements.txt
+   12  rm -rf venv
+   13  python3 -m venv venv
+   14  source venv/bin/activate
+   15  /bin/python3 /home/kay-1512/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/kay-1512/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+   16  python3 -m venv venv
+   17  /bin/python3 /home/kay-1512/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/kay-1512/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+   18  source venv/bin/activate
+   19  pip install django
+   20  python manage.py makemigrations
+   21  pip install -r requirements.txt
+   22  clear
+   23  python manage.py makemigrations
+   24  python manage.py migrate
+   25  python manage.py runserver
+   26  python manage.py makemigrations
+   27  python manage.py migrate
+   28  python manage.py runserver
+   29  pip freeze > requirements.txt
+   30  pip install -r requirements.txt
+   31  pip install pipdeptree
+   32  pipdeptree
+   33  python manage.py clear_cache
+   34  python manage.py help
+   35  python manage.py collectstatic
+   36  python manage.py runserver
+   37  /bin/python3 /home/kay-1512/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/kay-1512/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+   38  cd Desktop/
+   39  ls
+   40  rm deactivate/
+   41  rm -f deactivate/
+   42  mkdir room-booking
+   43  cd room-booking/
+   44  pip install django
+   45  pipenv install django
+   46  sudo apt install pipenv
+   47  pipenv install django
+   48  ls
+   49  code .
+   50  pipenv shell
+   51  cd Desktop/room-booking/
+   52  ls
+   53  django-admin startproject roombooking .
+   54  pipenv install django
+   55  ls
+   56  pipenv shell
+   57  /bin/python3 /home/kay-1512/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/kay-1512/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+   58  python manage.py runserver
+   59  clear
+   60  python manage.py startapp bookings
+   61  pip freeze > requirements.txt
+   62  pip install -r requirements.txt
+   63  python manage.py runserver
+   64  python manage.py makemigrations
+   65  python manage.py migrate
+   66  python manage.py runserver
+   67  python manage.py shell
+   68  python manage.py runserver
+   69  clear
+   70  python manage.py runserver
+   71  pip install python-dateutil
+   72  python manage.py runserver
+   73  python -m venv venv
+   74  python3 -m venv venv
+   75  source venv/bin/activate
+   76  pip install Flask
+   77  code .
+   78  cd Desktop/room-booking/
+   79  django-admin
+   80  pipenv shell
+   81  django-admin
+   82  django-admin startproject meeting-rooms
+   83  django-admin startproject meetingrooms .
+   84  python manage.py runserver
+   85  cd
+   86  ls
+   87  cd booking-system/
+   88  code .
+   89  cd
+   90  clear
+   91  sudo apt update
+   92  sudo apt upgrade
+   93  sudo bash Desktop/fixi-wifi-issues-on-desktops.sh 
+   94  sqlite3 database.db
+   95  sudo apt install sqlite3
+   96  sqlite3 database.db
+   97  python app.py
+   98  pip install Flask-Mail
+   99  python app.py
+  100  pip install Flask-SQLAlchemy
+  101  python app.py
+  102  flask shell
+  103  python create_db.py
+  104  python app.py
+  105  flask shell
+  106  python app.py
+  107  flask shell
+  108  python init_db.py
+  109  python create_db.py
+  110  python app.py
+  111  rm bookings.db
+  112  python create_db.py
+  113  pip install Flask-Migrate
+  114  flask db init
+  115  flask db migrate -m "Initial migration."
+  116  flask db upgrade
+  117  clear
+  118  flask db history
+  119  /bin/python3 /home/kay-1512/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/kay-1512/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+  120  sudo bash Desktop/fixi-wifi-issues-on-desktops.sh 
+  121  python app.py
+  122  flask db downgrade base
+  123  SQLite3
+  124  sqlite3
+  125  python app.py
+  126  flask db migrate -m "Add rooms column to Booking model"
+  127  flask db current
+  128  flask db upgrade
+  129  sqlite3
+  130  sqlite3 filename.db
+  131  sqlite3 bookings.db
+  132  sqlite3 database.db
+  133  flask db upgrade
+  134  clear
+  135  sqlite3 database.db
+  136  python -m venv venv
+  137  code .
+  138  python -m venv venv
+  139  python3 -m venv venv
+  140  source venv/bin/activate
+  141  pip install Flask
+  142  source venv/bin/activate
+  143  code .
+  144  ls
+  145  sqlite3 database.db
+  146  pip install Flask
+  147  flask shell
+  148  pip install Flask-SQLAlchemy
+  149  flask shell
+  150  python app.py 
+  151  pip install Flask-SQLAlchemy
+  152  pip install Flask-Mail
+  153  pip freeze
+  154  python app.py 
+  155  flask db init 
+  156  pip install Flask-Migrate
+  157  flask db init
+  158  flask db migrate
+  159  flask db upgrade
+  160  sqlite3
+  161  flask db upgrade
+  162  python app.py 
+  163  flask db upgrade
+  164  python app.py 
+  165  flask db migrate -m "Add Room model"
+  166  flask db migrate
+  167  flask db upgrade
+  168  flask db migrate   
+  169  flask db migrate -m "Add Room and Booking models"
+  170  flask db migrate   
+  171  sqlite 
+  172  sqlite3 
+  173  clear
+  174  flask db init
+  175  sqlite3
+  176  sqlite3 bookings.db 
+  177  flask db upgrade
+  178  rm -rf migrations/
+  179  flask db init
+  180  flask db migrate -m "Initial migration."
+  181  rm -rf migrations/
+  182  flask db init
+  183  flask db migrate -m "Initial migration."
+  184  flask db upgrade
+  185  clear
+  186  sqlite3 bookings.db
+  187  rm bookings.db
+  188  flask db upgrade
+  189  flask db init
+  190  flask db migrate -m "Initial migration."
+  191  sqlite3 bookings.db
+  192  clear
+  193  rm -rf migrations/
+  194  flask db init
+  195  flask db migrate -m "Initial migration"
+  196  flask db upgrade
+  197  flask app.py 
+  198  python app.py 
+  199  sqlite3 bookings.db
+  200  flask db current
+  201  flask db heads
+  202  flask db upgrade
+  203  sqlite3 bookings.db
+  204  python app.py 
+  205  sqlite3 bookings.db 
+  206  python app.py 
+  207  sqlite3 bookings.db 
+  208  python app.py 
+  209  flask db migrate -m "Initial migration"
+  210  flask db upgrade
+  211  python app.py 
+  212  sqlite3 bookings.db
+  213  python app.py 
+  214  flask shell
+  215  sqlite3
+  216  rm database.db
+  217  rm bookings.db 
+  218  rm filename.db 
+  219  python create_db.py
+  220  clear
+  221  flask db migrate -m "Added room_info to Booking model"
+  222  flask db migrate -m "Describe the changes"
+  223  flask db current
+  224  flask db init
+  225  flask db migrate -m "Initial migration"
+  226  flask db init
+  227  flask db migrate -m "Initial migration"
+  228  flask db init
+  229  flask db migrate -m "Initial migration"
+  230  flask db current
+  231  flask db history --verbose
+  232  rm -rf migrations/versions/*.py
+  233  flask db init
+  234  rm -rf migrations/versions/*.py
+  235  flask db init
+  236  flask db migrate -m "Initial migration"
+  237  flask db upgrade
+  238  rm database.db
+  239  flask db upgrade
+  240  sqlite3 database.db
+  241  flask db init
+  242  flask db migrate -m "Initial migration"
+  243  flask db upgrade
+  244  flask run
+  245  sqlite3 database.db
+  246  flask db migrate -m "Add room_info column to Booking model"
+  247  flask db upgrade
+  248  sqlite3 database.db 
+  249  clear
+  250  python app.py 
+  251  /bin/python3 /home/kay-1512/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/kay-1512/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+  252  source/venv/activate
+  253  source\venv\activate
+  254  source venv/bin/activate
+  255  pip freeze
+  256  python app.py 
+  257  sqlite3 bookings.db 
+  258  .tables
+  259  sqlite3 bookings.db 
+  260  python app.py 
+  261  pip install deta
+  262  deta login
+  263  git add .
+  264  git remote add origin https://github.com/Kay-1512/Meeting-room-booking.git
+  265  git init
+  266  git commit -m "first commit"
+  267  git config --global user.name "Kay-1512"
+  268  git config --global user.email "mikaelamcrowdie@gmail.com"
+  269  git add .
+  270  git commit -m "Initial commit"
+  271  git remote add origin https://github.com/Kay-1512/Meeting-room-booking.git
+  272  git branch
+  273  git push -u origin master
+  274  git remote set-url origin git@github.com:Kay-1512/Meeting-room-booking.git
+  275  git remote -v
+  276  git push -u origin master
+  277  pip freeze > requirements.txt
+  278  rm -rf venv/
+  279  git add .
+  280  git commit -m "Add Procfile and requirements.txt"
+  281  git push
+  282  pip install gunicorn
+  283  python3 -m venv venv
+  284  rm -rf venv/
+  285  python3 -m venv venv
+  286  source venv/bin/activate
+  287  git clone git@github.com:mikaelacodes/meeting-room-booking.git
+  288  cd final/booking_system/
+  289  curl -fsSL https://railway.app/install.sh | sh
+  290  sudo apt  install curl 
+  291  curl -fsSL https://railway.app/install.sh | sh
+  292  railway link -p 2c54d572-3ed5-4c80-945a-b3d930ddb12b
+  293  railway login
+  294  railway link -p 2c54d572-3ed5-4c80-945a-b3d930ddb12b
+  295  pip install flask gunicorn
+  296  pip install -r requirements.txt
+  297  echo "gunicorn" >> requirements.txt
+  298  git add .
+  299  git commit -m "Set up Gunicorn and Procfile for production"
+  300  git push origin master
+  301  gunicorn app:app
+  302  git remote set-url origin git@github.com:mikaelacodes/meeting-room-booking.git
+  303  git add .
+  304  git commit -m "Initial"
+  305  ssh -T git@github.com
+  306  git remote set-url origin git@github.com:mikaelacodes/meeting-room-booking.git
+  307  git remote -v
+  308  git branch
+  309  git push origin master
+  310  git remote set-url origin git@github-anothe
+  311  git add .
+  312  git commit -m "Your commit message"
+  313  git push origin master
+  314  git push
+  315  eval "$(ssh-agent -s)"
+  316  ssh-add ~/.ssh/id_ed25519_another
+  317  ssh -T git@github.com
+  318  ssh -T git@github.com
+  319  git remote set-url origin git@github.com:Kay-1512/Meeting-room-booking.git
+  320  git add .
+  321  git commit -m "AH"
+  322  git push
+  323  python app.py 
+  324  git add .
+  325  git commit -m "AH"
+  326  git push
+  327  python app.py 
+  328  git add .
+  329  git commit -m "AH"
+  330  git push
+  331  python app.py 
+  332  git add .
+  333  git commit -m "Specified room booked"
+  334  git push
+  335  python app.py 
+  336  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.0/install.sh | bash
+  337  nvm install 20
+  338  node -v 
+  339  npm -v 
+  340  console.log("Winning")
+  341  code .
+  342  python app.py 
+  343  pip install --upgrade Flask Jinja2
+  344  export FLASK_ENV=development
+  345  flask run
+  346  git add .
+  347  git commit -m "F4TU"
+  348  git push
+  349  flask run
+  350  node winning.js 
+  351  sudo apt install nodejs
+  352  node winning.js 
+  353  pip install APScheduler
+  354  flask run
+  355  /bin/python3 /home/kay-1512/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/kay-1512/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+  356  console.log(wordBlanks)
+  357  console.log('Hello World!')
+  358  console.log("Hello World!")
+  359  i.js
+  360  flask run
+  361  code .
+  362  pip install django
+  363  pipenv install django
+  364  django-admin startproject landing-page .
+  365  sudo apt install python3-django
+  366  django-admin startproject landing-page .
+  367  django-admin startproject landing_page .
+  368  django-admin runserver
+  369  /bin/python3 /home/kay-1512/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/kay-1512/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+  370  flask run
+  371  flask run
+  372  clear
+  373  flask run
+  374  clear
+  375  flask run
+  376  git add .
+  377  git commit -m "Added Calendar"
+  378  git push
+  379  flask run
+  380  /bin/python3 /home/kay-1512/.vscode/extensions/ms-python.python-2024.16.0-linux-x64/python_files/printEnvVariablesToFile.py /home/kay-1512/.vscode/extensions/ms-python.python-2024.16.0-linux-x64/python_files/deactivate/bash/envVars.txt
+  381  flask run
+  382  flask run 8080
+  383  python app.py 9000
+  384  clear
+  385  python app.py 9000
+  386  clear
+  387  python app.py 9000
+  388  git add .
+  389  git commit -m "Now displays available times specific to selected date"
+  390  git push
+  391  python app.py 9000
+  392  git add .
+  393  git commit -m "Now displays available times specific to selected date"
+  394  git push
+  395  pip install -r requirements.txt
+  396  python app.py 9000
+  397  pip install apscheduler
+  398  pip show apscheduler
+  399  gunicorn -w 4 app:app  # Adjust according to your app's entry point
+  400  git add .
+  401  git commit -m "Now displays available times specific to selected date"
+  402  git push
+  403  flask run
+  404  git push
+  405  pkill gunicorn  # Stops all Gunicorn processes
+  406  gunicorn -w 4 app:app  # Replace with your app's entry point
+  407  git add .
+  408  git commit -m "revert"
+  409  git push
+  410  git add .
+  411  git commit -m "updated routes"
+  412  git push
+  413  git add .
+  414  git commit -m "updated routes"
+  415  git push
+  416  git add .
+  417  git commit -m "updated calendar"
+  418  git push
+  419  pip install apscheduler
+  420  pip show apscheduler
+  421  clear
+  422  pip show pytz six tzlocal
+  423  pip install --upgrade APScheduler
+  424  clear
+  425  pip install -r requirements.txt
+  426  git add .
+  427  git commit -m "updated calendar"
+  428  git push
+  429  git add .
+  430  git commit -m "updated calendar"
+  431  git push
+  432  git add .
+  433  git commit -m "fixed available time slot error"
+  434  git push
+  435  git add .
+  436  git commit -m "fixed logo url"
+  437  git push
+  438  git add .
+  439  git commit -m "fixed calendar issue"
+  440  git push
+  441  flask run
+  442  git add .
+  443  git commit -m "fixed calendar issue"
+  444  git push
+  445  flask run
+  446  git add .
+  447  git commit -m "added more hour options to end times"
+  448  git push
+  449  flask run
+  450  i.js
+  451  node i.js
+  452  code .
+  453  git clone git@github.com:Umuzi-org/Michaela-McRowdie-429-bootcamp-writing-assignment-.git
+  454  code .
+  455  node task1.js
+  456  task1
+  457  task1.js
+  458  task1()
+  459  clear
+  460  node task2.js
+  461  task2() task2()
+  462  node task.js
+  463  node task2.js
+  464  node task3.js
+  465  node task4.js
+  466  node task5.js
+  467  node task6.js
+  468  node task7.js
+  469  node task8.js
+  470  node task9.js
+  471  node task10.js
+  472  code . 
+  473  code .
+  474  node person.js
+  475  node task10.js
+  476  node task1.s
+  477  node task1.js
+  478  node task2.js
+  479  node task3.js
+  480  node task4.js
+  481  node task5.js
+  482  node task6.js
+  483  node task7.js
+  484  node task5.js
+  485  node person.js
+  486  code .
+  487  clear
+  488  cd
+  489  clear
+  490  curl ascii.live/rick
+  491  color
+  492  color #
+  493  color a
+  494  hollywood
+  495  apt install Hollywood
+  496  sudo apt install Hollywood
+  497  sudo apt install hollywood
+  498  msg * Hii
+  499  hollywood
+  500  msg * Hii
+  501  clear
+  502  git clone git@github.com:mikaelacodes/git-basic-exercises.git
+  503  git init
+  504  touch README.md
+  505  ls
+  506  cd git-basic-exercises/
+  507  touch README.md
+  508  ls
+  509  git status
+  510  git add .
+  511  git commit -m "initial commit"
+  512  nano README.md 
+  513  cat README.md 
+  514  git status
+  515  git add .
+  516  git commit -m "second commit"
+  517  nano README.md 
+  518  git commit -m "third commit"
+  519  git add .
+  520  git commit -m "third commit"
+  521  git log
+  522  git checkout d34f148e9887d050e74a0997ae9bac1bd73ccbf0
+  523  cat README.md 
+  524  git checkout main
+  525  cat README.md
+  526  CLEAR
+  527  clear
+  528  git branch milkshake-flavours
+  529  git branch
+  530  git branch milkshake-flavours 
+  531  git checkout milkshake-flavours 
+  532  git branch
+  533  nano milkshakes.md
+  534  cat milkshakes.md 
+  535  git status
+  536  git add milkshakes.md 
+  537  git commit -m "added initial flavours"
+  538  git log
+  539  git checkout main
+  540  git branch
+  541  git branch history
+  542  git checkout history 
+  543  git log
+  544  git branch
+  545  history > history.txt
